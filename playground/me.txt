@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ankit Akash
-Skills: HTML, CSS, REACT.js, Node.js
-Email: akashankit905@gmail.com
-{{/user}}
